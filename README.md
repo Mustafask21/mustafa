@@ -1,0 +1,2 @@
+# mustafa
+Algritma ödev
